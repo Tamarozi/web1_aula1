@@ -1,9 +1,9 @@
 # Exercícios da aula 1
 
 - lista_compras: Uma lista de compras básica em MD.
-- lista_compras_numerada: Uma lista de compras onde os itens estão numeradas por ordem de prioridade.
-- lista_compras_separada: Uma lista de compra separada entre setores varejistas.
-- tabela_produtos: Uma tabela comparativa de 3 produtos e o preço de cada um deles em dois supermercados diferentes.
+- lista_compras_numerada: Uma lista de compras onde os itens estão numerados por ordem de prioridade.
+- lista_compras_separada: Uma lista de compras separada entre setores varejistas.
+- tabela_produtos: Uma tabela comparativa de 3 produtos e o preço de cada um deles em dois super-mercados diferentes.
 - artigo: Um artigo sobre o físico Isaac Newton.
 
 ## Links
